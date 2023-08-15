@@ -1,2 +1,2 @@
 # MSE110
-First year robotics
+First year robotics course centered around RobotC
